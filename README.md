@@ -46,7 +46,7 @@ Analyzed loan customer data to identify default risk indicators and generate act
 
 ## 🌐 Connect With Me
 
-👉 Add your LinkedIn link here
+👉 https://www.linkedin.com/in/anjali-jujare-bb831b299/
 
 ---
 
