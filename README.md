@@ -37,16 +37,33 @@ Designed a tracking solution to monitor vehicle movement in real time and enhanc
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 Tech Stack
 
-**Languages & Tools**
-Python • SQL • Git • Jupyter Notebook
+### Languages
 
-**Core Skills**
-Data Analysis • Problem Solving • System Thinking • Project Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
 
-**Concepts**
-Analytics Workflows • LLM Basics • Real-Time Systems
+---
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+### Visualization & BI
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
+---
+
+### Big Data & Streaming
+
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
 
 
 ---
