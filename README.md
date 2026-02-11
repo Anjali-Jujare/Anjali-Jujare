@@ -16,37 +16,60 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 📊 **Credit Risk Analysis**
-Analyzed loan customer data to identify default risk indicators and generate actionable insights.
-*Tech: Python • Pandas • Visualization*
+Analyzed loan customer data to identify patterns influencing credit default risk using data preprocessing, exploratory analysis, and visualization.
+*Tech: Python • Pandas • Data Analysis*
+
+🤖 **Resume Analysis with RAG + LLM**
+Built a system that leverages retrieval-augmented generation to analyze resumes and extract meaningful insights using language models.
+*Tech: Python • LLM Concepts • NLP*
+
+🚚 **Fleet Management System**
+Developed a system to manage and monitor fleet operations, improving tracking and operational visibility.
+*Tech: System Design • Application Logic*
+
+🚗 **Real-Time Vehicle Tracking System**
+Designed a tracking solution to monitor vehicle movement in real time and enhance location-based insights.
+*Tech: Python • Tracking Concepts*
+
 
 ---
 
 ## 🛠️ Skills & Tools
 
-<p>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+**Languages & Tools**
+Python • SQL • Git • Jupyter Notebook
+
+**Core Skills**
+Data Analysis • Problem Solving • System Thinking • Project Development
+
+**Concepts**
+Analytics Workflows • LLM Basics • Real-Time Systems
+
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Learning & Strengths
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anjali-Jujare&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali-Jujare&layout=compact"/>
-</p>
+* Building practical analytics and AI-based solutions
+* Applying problem-solving to real-world projects
+* Strengthening Python and system design skills
+* Continuously learning new tools and technologies
+
 
 ---
 
 ## 🌐 Connect With Me
 
-👉 https://www.linkedin.com/in/anjali-jujare-bb831b299/
+<p>
+  <a href="https://www.linkedin.com/in/anjali-jujare-bb831b299/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
 
 ---
 
